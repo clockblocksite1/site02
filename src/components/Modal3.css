@@ -1,0 +1,264 @@
+.chor3{
+    width: 1248px;
+    height: 1144px;
+    background-color: #4D433F;
+    border-radius: 32px;
+    position: absolute;
+    margin-top: -2150px;
+    margin-left: 336px;
+}
+.check1{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    margin-top: 24px;
+    margin-left: 215px;
+}
+.cel{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+.cvbn{
+    color: white;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.cwer{
+    color: white;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.ssn{
+    color: white;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.qxcv{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 350px;
+}
+.polkj1{
+    color: white;
+    position: absolute;
+    margin-top: 360px;
+    margin-left: 90px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.one789{
+    color: white;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 300;
+    
+}
+.three1096{
+    color: white;
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 40px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.ter12{
+    color: white;
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.four1{
+    color: white;
+    position: absolute;
+    margin-top: 520px;
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.five1{
+    color: white;
+    position: absolute;
+    margin-top: 560px;
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.looc{
+    color: white;
+    position: absolute;
+    margin-top: 340px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px; 
+}
+.politech148{
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 624px;
+    margin-left: 443px;
+}
+.online2357{
+    color: white;
+    position: absolute;
+    margin-top: 688px;
+    font-weight: 300;
+    margin-left: 382px;
+    font-size: 24px; 
+}
+.dla234{
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 752px;
+    margin-left: 375px;
+}
+.svia2356{
+    color: white;
+    position: absolute;
+    margin-top: 816px;
+    font-weight: 300;
+    margin-left: 140px;
+    font-size: 24px; 
+}
+.svia1023{
+    color: white;
+    position: absolute;
+    margin-top: 880px;
+    font-weight: 300;
+    margin-left: 480px;
+    font-size: 24px; 
+}
+.bet1234{
+    width: 68px;
+    height: 68px;
+    color: white;
+    position: absolute;
+    margin-left: 1168px;
+    margin-top: 12px;
+    cursor: pointer;
+    
+
+}
+@media(max-width:431px){
+    .check1 {
+        font-size: 22px;
+        margin-left: 47px;
+       margin-top: 10px;
+        word-wrap: break-word; 
+    }
+   .chor3{
+    width: 406px;
+    height: 1018px;
+    position: absolute;
+    margin-left: 1px;
+    margin-top: 5500px;
+   }
+   .polkj1{
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    margin-top: 320px;
+    margin-left: 35px;
+   }
+   .one789{
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    margin-top: 390px;
+    margin-left: 35px;
+   }
+   .ter12{
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    margin-top: 450px;
+    margin-left: 35px;
+   }
+   .three1096{
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    margin-top: 520px;
+    margin-left: 35px;
+   }
+   .four1{
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    margin-top: 550px;
+    margin-left: 35px;
+   }
+   .five1{
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    margin-top: 600px;
+    margin-left: 35px;
+   }
+   .politech148{
+    font-size: 20px;
+    margin-left: 94px;
+    margin-top: 690px;
+    color: white;
+   }
+   .online2357{
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    margin-top: 725px;
+    margin-left: 33px;
+    font-weight: 300;
+    
+   }
+   .dla234{
+    font-size: 20px;
+    margin-left: 94px;
+    margin-top: 788px;
+    color: white;
+    white-space: nowrap;
+    margin-left: 50px;
+   }
+   .svia2356{
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    margin-top: 828px;
+    margin-left: 33px;
+    font-weight: 300;
+   }
+   .svia1023{
+position: absolute;
+margin-top: 910px;
+margin-left: 33px;
+font-size: 18px;
+font-weight: 300;
+   }
+   .bet1234{
+    position: absolute;
+    margin-left: 377px;
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    color: white;
+   }
+   
+}

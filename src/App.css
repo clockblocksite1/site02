@@ -1,0 +1,2666 @@
+
+.bg{
+    font-size: 128px;
+    margin-top: 290px;
+    margin-left:336px;
+    font-weight: 500;
+    position: absolute;
+    margin-top: 50px;
+    padding-top: 60px;
+}
+.star{
+    width: 68px;
+    height: 68px;
+    margin-top: -100px;
+    position: absolute;
+    margin-left: 319px;
+}
+.bv{
+   
+    color:Gray ;
+    font-size: 24px;
+}
+.nt{
+    color:Gray ;
+    font-size: 24px;
+}
+.re{
+    position: absolute;
+    margin-top: 434px;
+    margin-left: 350px;
+    font-size: 24px;
+   
+}
+.j{
+    position: absolute;
+    margin-top: -30px;
+}
+
+.star:hover {
+    transform: rotate(360deg);
+    cursor: pointer;
+   transition: transform 2.3s ease;
+}
+.hs {
+    position: absolute;
+    margin-top: 530px;
+    margin-left: 340px;
+    width: 282px;
+    height: 80px;
+    background-color: #442D25;
+    color: #FFFFFF;
+    border-radius: 24px;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    
+}
+.hs:hover{
+    background-color: #CFAA8E;
+    transition: all 1.5s;
+}
+.hs .b{
+    position: absolute; 
+    right: 10px;
+    top: 50%; 
+    transform: translateY(-50%); 
+    color: white;
+    font-size: 40px;
+}
+.mn {
+    width: 123px;
+    height: 127px;
+    border-radius: 100%;
+    margin-left: 50px;
+    position: absolute;
+    margin-bottom: 100px;
+   
+}
+.tr{
+    width: 123px;
+    height: 127px;
+    border-radius: 100%;
+    margin-left: 250px;
+    position: absolute;
+}
+.ew{
+    
+    margin-left: 690px;
+    margin-top: 50px;
+
+}
+.upig{
+    width: 437px;
+    height: 171px;
+    position: absolute;
+    margin-left: 458px;
+    position: absolute;
+    margin-top: 148px;
+  }
+.eq{
+   font-size: 50px;
+   position: absolute;
+   margin-top: 30px;
+   width: 72px;
+   margin-left: 180px;
+   background-color: #CFAA8E;
+   
+}
+.bnm2{
+    font-size: 40px;
+    margin-left: 24px;
+}
+.bnm3{
+    font-size: 40px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+.tw{
+    width: 123px;
+    height: 127px;
+    border-radius: 100%;
+    margin-left: 50px;
+    position: absolute;
+    margin-bottom: 100px;
+}
+.sd{
+    width: 123px;
+    height: 127px;
+    border-radius: 100%;
+    margin-left: 250px;
+    position: absolute;
+}
+.wt{
+    
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.down{
+    width: 437px;
+    height: 171px;
+    position: absolute;
+    margin-left: 408px;
+    position: absolute;
+    margin-top: 335px;
+}
+.ob{
+    font-size: 128px;
+    font-weight: 500;
+    color: #000000;
+    margin-left: 330px;
+    margin-top: 690px;
+    position: absolute;
+}
+.mne{
+    font-size: 128px;
+    font-weight: 500;
+    color: #442D25;
+    margin-left: 630px;
+    position: absolute;
+    margin-top: 690px;
+
+
+}
+
+.photo{
+    width: 566px;
+    height:743px;
+    background: #442D25;
+    border-radius: 32px;
+    margin-left: 348px;
+    margin-top: 892px;
+    position: absolute;
+}
+.wet{
+    width: 568px;
+    height: 749px;
+    position: absolute;
+}
+.zot {
+  background-color: #FFFFFF80 ;
+ width: 261px;
+height: 84px;
+  color: #000000;
+  border-radius: 32px;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 665px;
+  position: absolute;
+  margin-left: 148px;
+}
+.ert{
+    font-size: 16px;
+    color: #000000B2;
+    font-weight: 300px;
+    margin-top: 48px;
+   margin-left: 24px;
+    position: absolute;
+}
+.cae{
+    margin-left: 20px;
+    margin-top: 10px;
+    position: absolute;
+    font-size: 24px;
+
+}
+.sot{
+    width: 613px;
+    height: 288px;
+    background-color: #442D25;
+    color: #FFFFFF;
+    border-radius: 32px;
+    font-size: 15px;
+    position: absolute;
+    margin-left: 971px;
+   margin-top: 895px;
+   font-weight: 300;
+   
+
+}
+.ren{
+    margin-top: 24px;
+    margin-left: 20px;
+    font-size: 24px;
+    font: Roboto;
+   
+}
+.hoert{
+    font-size: 24px;
+    font: Roboto;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.clen{
+    font-size: 24px;
+    font: Roboto;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.qac{
+    font-size: 24px;
+    font: Roboto;
+    margin-left: 120px;
+    margin-top: -32px;
+    position: absolute;
+}
+.dfg{
+    font-size: 24px;
+    font: Roboto;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.kol{
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-left: 565px;
+    margin-top: -215px;
+}
+.i{
+    color: #000000;
+   font-size: 40px;
+    position: absolute;
+    margin-left: 500px;
+    font-weight: 500;
+    margin-top: 1230px;
+    margin-left: 971px;
+}
+.dva{
+    color: #000000;
+   font-size: 128px;
+    position: absolute;
+    margin-left: 500px;
+    font-weight: 500;
+    margin-top: 1270px;
+    margin-left: 971px;
+    font: Roboto;
+}
+.print{
+    position: absolute;
+    font-weight: 700;
+    margin-left: 970px;
+    margin-top: 1410px;
+    font-size: 20px;
+}
+.wda{
+    position: absolute;
+   font-weight: 500;
+    margin-left: 971px;
+    margin-top: 1450px;
+    font-size: 40px;
+}
+.wsv{
+    position: absolute;
+    margin-left: 971px;
+    margin-top: 1510px;
+    font-size: 24px;
+}
+.go{
+    color: #000000;
+   font-size: 128px;
+    margin-left: 336px;
+    font-weight: 500;
+    margin-top: 1760px;
+    position: absolute;
+}
+.cot{
+    color: #CFAA8E;
+    font-size: 128px;
+     margin-left: 860px;
+     font-weight: 500;
+     position: absolute;
+     margin-top: 1760px;
+    
+}
+.ocl{
+    color: #000000;
+    font-size: 128px;
+     margin-left: 920px;
+     font-weight: 500;
+     position: absolute;
+     margin-top: 1760px;
+    
+}
+.block{
+   width: 403px;
+   height: 384px;
+    background-color: #CFAA8E;
+    border-radius: 29px;
+    position: absolute;
+    margin-left: 336px;
+    margin-top: 2010px;
+   
+}
+.wyu{
+    margin-left: 80px;
+    font-size: 13px;
+}
+.asdf{
+margin-left: 16px;
+margin-top: 20px;
+font-weight: 500;
+font-size: 40px;
+}
+.bnm{
+    margin-left: 16px;
+    font-weight: 500;
+    font-size: 40px;
+}
+.cxq{
+    margin-left: 16px;
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.block2{
+    width: 403px;
+    height: 384px;
+    background-color: #442D25;
+    border-radius: 29px;
+    position: absolute;
+    margin-left: 759px;
+    margin-top: 2010px;
+    color: #FFFFFF;
+    
+}
+.block3{
+    width: 403px;
+    height: 384px;
+    background-color: #CFAA8E;
+    border-radius: 29px;
+    position: absolute;
+    margin-left: 720px;
+    margin-left: 1181px;
+    margin-top: 2010px;
+   
+}
+.gds{
+    margin-left: 336px;
+    font-size: 24px;
+    position: absolute;
+    margin-top: 1940px;
+}
+.roma{
+    color: #000000;
+   font-size: 128px;
+    font-weight: 500;
+    position: absolute;
+   margin-left: 336px;
+    margin-top: 2490px;
+    
+
+}
+.pooc{
+    margin-left: 890px;
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    margin-top: 2690px;
+    gap: 80px;
+    color: gray;
+    font-size: 32px;
+    cursor: pointer;
+}
+.wero{
+    width: 386px;
+    height: 552px;
+    border-radius: 32px;
+    background-color: #CFAA8E;
+    position: absolute;
+    margin-top: 2820px;
+    margin-left: 336px;
+    
+}
+.cotew{
+    position: absolute;
+    width: 153px;
+    height: 390px;
+    margin-left: 193px;
+    border-radius: 14px;
+    margin-top: 24px;
+    border-radius: 44px, 0px, 0px, 44px;
+
+}
+.drok{
+    position: absolute;
+    width: 153px;
+    height: 390px;
+    margin-left: 40px;
+    border-radius: 14px;
+    margin-top: 24px;
+    border-radius: 44px, 0px, 0px, 44px;
+
+} 
+.wrt{
+    display: flex;
+    position: absolute;
+    margin-top: 430px;
+    gap:40px;
+    margin-left: 40px;
+    font-size: 24px;
+   
+
+}
+.btn{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 20px;
+    background-color: #FFFFFF;
+    width: 257px;
+    height: 57px;
+    cursor: pointer;
+    border-radius: 14px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    line-height: 40px;
+}
+tr{
+    color: #000000;
+    text-decoration: underline;
+}
+.rtu{
+    width: 386px;
+    height: 552px;
+    border-radius: 32px;
+    background-color: #CFAA8E;
+    position: absolute;
+    margin-top: 2820px;
+    margin-left: 767px;
+   
+}
+.bagi{
+    width: 386px;
+    height: 552px;
+    border-radius: 32px;
+    background-color: #CFAA8E;
+    position: absolute;
+    margin-top: 2820px;
+    margin-left: 1197px;
+}
+.weryu{
+    color: #000000;
+   font-size: 128px;
+    font-weight: 500;
+    position: absolute;
+    margin-top: 3450px;
+    margin-left: 336px;
+   
+}
+.rogot{
+    width: 406px;
+    height: 400px;
+    border-radius: 32px;
+    background-color: #442D25;
+    position: absolute;
+    margin-left: 336px;
+    margin-top: 3660px;
+   
+}
+.text{
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 32px;
+    margin-top: -1px;
+    margin-top: 24px;
+    margin-left: 103px;
+
+}
+.text2{
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 64px;
+    margin-left: 161px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.qerdsds{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 128px;
+    margin-left: 75px;
+    font-size: 32px;
+}
+.profgh{
+    color: #FFFFFF;
+    margin-top: 168px;
+    margin-left: 114px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.stoit{
+    color: #FFFFFF;
+    position: absolute;
+   margin-top: 23px;
+    margin-left: 124px;
+    font-size: 32px;
+}
+.trist{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 168px;
+    font-size: 24px;
+}
+.cored{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 168px;
+
+}
+.podrob{
+    background-color: #442D25;
+    width: 406px;
+    height: 132px;
+    position: absolute;
+    margin-top: 4055px;
+    margin-left: 336px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 32px;
+    font-size: 32px;
+}
+.kolou{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 365px;
+    
+}
+.kolou2{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 406px;
+}
+.kolou3{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 442px;
+}
+.kolou4{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 478px;
+}
+.kolou5{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 514px;
+}
+.kolou6{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 550px;
+}
+.kolou7{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 586px;
+}
+.kolou8{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 622px;
+}
+.kolou8r{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 658px;
+}
+.kolou8e{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 694px;
+
+}
+.rogot2{
+    width: 406px;
+    height: 400px;
+    border-radius: 32px;
+    background-color: #CFAA8E;
+    position: absolute;
+    margin-left: 757px;
+    margin-top: 3660px;
+    
+}
+.kolou1{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 786px;
+    
+}
+.kolou21{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 827px;
+   
+}
+.kolou31{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 863px;
+  
+}
+.kolou41{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 899px;
+}
+.kolou51{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 935px;
+    
+}
+.kolou61{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 971px;
+   
+}
+.kolou71{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1007px;
+   
+}
+.kolou81{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1043px;
+   
+}
+.kolou81r{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1079px;
+   
+}
+.kolou81e{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1115px;
+   
+}
+
+.podrob2{
+    background-color:#CFAA8E;
+    width: 406px;
+    height: 132px;
+    position: absolute;
+    margin-top: 4055px;
+    margin-left: 757px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 32px;
+    font-size: 32px;
+}
+.rogot3{
+    width: 406px;
+    height: 400px;
+    border-radius: 32px;
+    background-color: #442D25;
+    position: absolute;
+    margin-left: 1178px;
+    margin-top: 3660px;
+   
+}
+.podrob3{
+    background-color: #442D25;
+    width: 406px;
+    height: 132px;
+    position: absolute;
+    margin-top: 4055px;
+    margin-left: 1178px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 32px;
+    font-size: 32px;
+}
+.kolou22{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1212px;
+}
+.kolou23{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1248px;
+}
+.kolou33{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1284px;
+}
+.kolou43{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1318px;
+}
+.kolou53{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1356px;
+   
+}
+.kolou63{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1392px;
+}
+.kolou73{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1428px;
+}
+.kolou83{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1464px;
+   
+}
+.kolou83r{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1500px;
+   
+}
+.kolou83e{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4047px;
+    margin-left: 1536px;
+    
+}
+.rogot4{
+    width: 406px;
+    height: 400px;
+    border-radius: 32px;
+   background-color: #CFAA8E;
+    position: absolute;
+    margin-left: 336px;
+    margin-top: 4240px;
+    
+}
+.text23{
+    position: absolute;
+    font-size: 32px;
+    color: #FFFFFF;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-left: 37px;
+}
+.dronr{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    margin-top: 64px;
+    margin-left: 80px;
+}
+.rock{
+    color: #FFFFFF;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 128px;
+    margin-left: 75px;
+}
+.deni{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 168px;
+    margin-left: 118px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.denik{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 232px;
+    margin-left: 124px;
+    font-size: 32px;
+    
+}
+.free{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 272px;
+    margin-left: 144px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.tire{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 144px;
+}
+.pringle{
+    background-color: #CFAA8E;
+    width: 406px;
+    height: 132px;
+    position: absolute;
+    margin-top: 4639px;
+    margin-left: 336px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 32px;
+   font-size: 32px;
+}
+.kolou101{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 365px;
+    
+    
+}
+.kolou102{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 406px;
+}
+.kolou103{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 442px;
+}
+.kolou104{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 478px;
+}
+.kolou105{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 514px;
+}
+.kolou106{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 550px;
+}
+.kolou107{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 586px;
+}
+.kolou108{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 622px;
+}
+.kolou108r{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 658px;
+}
+.kolou108e{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 694px;
+}
+.rogot23{
+    width: 406px;
+    height: 400px;
+    border-radius: 32px;
+  background-color: #442D25;
+    position: absolute;
+    margin-left: 757px;
+    margin-top: 4240px;
+    
+}
+.text233{
+    color: #FFFFFF;
+    position: absolute;
+    font-size: 32px;
+    margin-top: 24px;
+    margin-left: 87px;
+}
+.dronr23{
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 24px;
+    position: absolute;
+    margin-top: 64px;
+    margin-left: 147px;
+    white-space: nowrap;
+}
+.dronr234{
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 24px;
+    position: absolute;
+    margin-top: 64px;
+    margin-left: 147px;
+    white-space: nowrap;
+}
+.rock23{
+    color: #FFFFFF;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 128px;
+    margin-left: 75px;
+}
+.deni32{
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 24px;
+    position: absolute;
+    margin-top: 168px;
+    margin-left: 124px;
+}
+.denik233{
+    color: #FFFFFF;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 232px;
+    margin-left: 124px;
+}
+.kolou1011{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 786px;
+}
+.kolou1021{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 827px;
+}
+.kolou1031{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 863px;
+}
+.kolou1041{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 899px;
+}
+.kolou1051{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 935px;
+}
+.kolou1061{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 971px;
+}
+.kolou1071{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1007px;
+}
+.kolou1081{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1043px;
+}
+.kolou1081r{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1079px;
+}
+.kolou1081e{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1115px;
+}
+.pringle3242{
+    background-color: #442D25;
+    width: 406px;
+    height: 132px;
+    position: absolute;
+    margin-top: 4639px;
+    margin-left: 757px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 32px;
+   font-size: 32px;
+}
+.free323{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    margin-top: 272px;
+    margin-left: 175px;
+}
+.tire3324{
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 292px;
+    margin-left: 175px;
+}
+.rogot232{
+    width: 406px;
+    height: 400px;
+    border-radius: 32px;
+  background-color: #CFAA8E;
+    position: absolute;
+    margin-left: 1178px;
+    margin-top: 4240px;
+}
+.text23334{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 42px;
+    margin-top: 24px;
+    font-size: 32px;
+   
+    
+}
+.dronr23{
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    margin-left: 53px;
+    margin-top: 64px;
+}
+.text219{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 70px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.pringle3242134{
+   background-color: #CFAA8E;
+   width: 406px;
+   height: 132px;
+   position: absolute;
+   margin-top: 4639px;
+   margin-left: 1178px;
+   border: none;
+   cursor: pointer;
+   color: #FFFFFF;
+   border-radius: 32px;
+  font-size: 32px;
+}
+.kolou101123{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1212px;
+}
+.kolou102123{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1248px;
+}
+.kolou103123{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1284px;
+}
+.kolou104123{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1318px;
+}
+.kolou105123{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1356px;
+}
+.kolou106123{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1392px;
+}
+.kolou107123{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1428px;
+}
+.kolou108123{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1464px;
+}
+.kolou108123r{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1500px;
+}
+.kolou108123e{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 4628px;
+    margin-left: 1536px;
+}
+.pocol{
+    color: #000000;
+    font-size: 128px;
+    font-weight: 500;
+    position: absolute;
+    margin-top: 4850px;
+    margin-left: 336px;
+    
+}
+.telega {
+    background-color: #442D25;
+    width: 104px;
+    height: 104px;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: 5060px;
+    margin-left: 336px;
+    
+}
+
+.telegr {
+    width: 50px; 
+    height:40px; 
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.ivanova {
+    color: #FFFFFF;
+    width: 303px;
+    height: 104px;
+    background-color: #442D25;
+    margin-top: 5110px;
+    border-radius: 29px;
+    margin-left: 452px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.telephone {
+    color: #FFFFFF;
+    width: 58px; 
+    height: 58px; 
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.wraping {
+    background-color: #442D25;
+    width: 104px;
+    height: 104px;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: -105px;
+    margin-left: 851px;
+}
+.nambelou{
+    color: #FFFFFF;
+    width: 303px;
+    height: 104px;
+    background-color: #442D25;
+    margin-top: -100px;
+    border-radius: 29px;
+    margin-left: 967px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.graving{
+    background-color: #442D25;
+    width: 64px;
+    height: 64px;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 680px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    display: none;
+}
+.watsap{
+    color: #FFFFFF;
+   
+    width: 34px; 
+    height: 34px; 
+}
+.salor{
+    color: #FFFFFF;
+    width: 155px;
+    height: 60px;
+    background-color: #442D25;
+    margin-top: -60px;
+    border-radius:13px ;
+    margin-left: 750px;
+    text-align: center;
+    line-height: 60px;
+    display: none;
+}
+.bog{
+    background-color: #442D25;
+    width: 1920px;
+    height: 492px;
+    margin-top: 150px;
+    
+}
+.random{
+    position: absolute;
+    margin-left: 709px;
+    font-size: 24px;
+    margin-top: 40px;
+    
+}
+.rodas{
+    color: #FFFFFF;
+    position: absolute;
+    font-size: 48px;
+    margin-left: 343px;
+    margin-top: 100px;
+}
+.homed{
+    color: #FFFFFF;
+    font-size: 48px;
+    position: absolute;
+    margin-left: 343px;
+    margin-top: 155px;
+}
+.selected {
+    text-decoration: underline;
+    color: black;
+    font-weight: 400;
+  }
+  .line-between {
+    position: absolute;
+    height: 390px;
+    width: 2px;
+    top: 24px;
+    left: 193.5px;
+    background-color: black;
+  }
+.copy{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 760px;
+    margin-top: 125px;
+  font-size: 32px;
+}
+.all{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 932px;
+    margin-top: 125px;
+font-size: 32px;
+}
+.didsa{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 1305px;
+    margin-top: 125px;
+    font-size: 32px;
+}
+.gorod{
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 695px;
+    margin-top: 275px;
+    font-size: 32px;
+}
+.arrow{
+    width: 183.39px;
+    height: 76.97px;
+    position: absolute;
+    top: 244px;
+    left: 429px;
+    margin-top: 895px;
+    margin-left: 370px;
+    
+}
+
+  .telega:hover{
+ background-color: #CFAA8E;
+ transition: 1.5s;
+ transform: rotate(360deg);
+ cursor: pointer;
+  }
+  .ivanova:hover{
+    background-color: #CFAA8E;
+ transition: 1.5s;
+ cursor: pointer;
+  }
+  .wraping:hover{
+    background-color: #CFAA8E;
+ transition: 1.5s;
+ transform: rotate(360deg);
+ cursor: pointer;
+  }
+  .nambelou:hover{
+    background-color: #CFAA8E;
+    transition: 1.5s;
+    cursor: pointer;
+  }
+  .graving:hover{
+    background-color: #CFAA8E;
+    transition: 1.5s;
+    transform: rotate(360deg);
+    cursor: pointer;
+  }
+  .salor:hover{
+    background-color: #CFAA8E;
+    transition: 1.5s;
+    cursor: pointer;
+  }
+  .hs:active {
+    transform: translateY(3px);
+  }
+  .btn:hover{
+    background-color: #442D25;
+    transition: all 2s;
+  }
+  .up13{
+    display: none;
+  }
+  @media (max-width:440px){
+    .bg{
+        font-size: 48px;
+        position: absolute;
+      margin-top: 10px;
+        margin-left: 89px;
+      }
+      .houm{
+        margin-left: 70px;
+        margin-top: -70px;
+        position: absolute;
+      }
+      .star{
+        width: 27px;
+        height: 27px;
+        margin-top: -45px;
+        position: absolute;
+        margin-left: 190px;
+      }
+      
+      .hs{
+        display: none;
+      }
+     
+      .dronr234{
+        position: absolute;
+        font-size: 18px;
+        margin-top: 64px;
+        margin-left: 137px;
+      }
+      .nt{
+        position: absolute;
+        margin-top: -310px;
+        white-space: nowrap;
+        margin-left: -300px;
+        
+        font-size: 16px;
+      }
+      .bv{
+        position: absolute;
+        margin-top: -330px;
+        white-space: nowrap;
+        margin-left: 40px;
+        margin-left: -330px;
+        font-size: 15px;
+      }
+      .upig{
+        position: absolute;
+        margin-top: 120px;
+        margin-left: -610px;
+        width: 316px;
+        height: 123px;
+      }
+      .bnm2{
+        font-size: 20px;
+        position: absolute;
+        margin-top: -27px;
+        margin-left: 197px;
+        font-weight: 600;
+      }
+      .bnm3{
+        font-size: 20px;
+        position: absolute;
+        margin-top: -27px;
+        margin-left: 213px;
+        font-weight: 600;
+      }
+     .down{
+        position: absolute;
+        margin-top: 260px;
+        margin-left: -590px;
+        width: 316px;
+        height: 123px;
+     }
+     .photo{
+      position: absolute;
+      margin-top: 480px;
+      width: 376px;
+      height: 468px;
+      margin-left: 12px;
+     }
+     .wet{
+        width: 378px;
+        height: 470px;
+        position: absolute;
+    
+     }
+    
+     .zot{
+        width: 261px;
+        height: 84px;
+        position: absolute;
+        margin-top: 390px;
+        margin-left: 70px;
+        
+     }
+     .cae{
+        font-size: 24px;
+     }
+     .ert{
+        font-size: 16px;
+        position: absolute;
+        margin-top:40px ;
+     }
+     .ob{
+        font-size: 48px;
+        position: absolute;
+        margin-top: 390px;
+        margin-left: 12px;
+     }
+     .mne{
+        font-size: 48px;
+        color: #CFAA8E;
+        position: absolute;
+        margin-top: 390px;
+        margin-left: 130px;
+     }
+     .sot{
+        position: absolute;
+        margin-top: 990px;
+        margin-left: 12px;
+        width: 376px;
+        height: 196px;
+        font-size: 16px;
+     }
+     .ren{
+        font-size: 16px;
+        margin-top: 16px;
+        margin-left: 24px;
+     }
+     .hoert{
+        font-size: 16px;
+        margin-top: 1px;
+        margin-left: 24px;
+     }
+     .clen{
+        font-size: 17px;
+        margin-top: 1px;
+        margin-left: 24px;
+        white-space: pre-line;
+     }
+     .qac{
+        font-size: 16px;
+        margin-top: -3px;
+        margin-left: 24px;
+        
+     }
+     .dfg{
+        font-size: 16px;
+        margin-top: 20px;
+        margin-left: 24px;
+     }
+     .wsv{
+        display: none;
+     }
+     .kol{
+        position: absolute;
+        margin-left: 340px;
+        margin-top: -150px;
+        width: 24px;
+        height: 24px;
+     }
+     .i{
+        position: absolute;
+        margin-top: 1200px;
+        white-space: nowrap;
+        font-size: 24px;
+        margin-left: 172px;
+     }
+     .dva{
+        position: absolute;
+        margin-top: 1220px;
+        font-size: 48px;
+        margin-left: 172px;
+     }
+     .print{
+        position: absolute;
+        margin-top: 1272px;
+        margin-left: 170px;
+        font-size: 8px;
+        font-weight: 900;
+     }
+     .wda{
+        position: absolute;
+        margin-top: 1280px;
+        white-space: nowrap;
+        margin-left: 47px;
+        font-size: 24px;
+     }
+     .go{
+        font-size: 40px;
+        position: absolute;
+        margin-top: 1340px;
+        margin-left: 12px;
+     }
+     .cot{
+        font-size: 40px;
+        position: absolute;
+        margin-top: 1340px;
+        margin-left: 175px;
+     }
+     .gds{
+        position: absolute;
+        margin-top: 1390px;
+        margin-left: 12px;
+        font-size: 16px;
+        
+     }
+     .ocl{
+        font-size: 40px;
+        position: absolute;
+        margin-top: 1340px;
+        margin-left: 200px;
+     }
+     .block{
+        position: absolute;
+        margin-top: 1450px;
+        width: 376px;
+        height: 156px;
+        margin-left: 12px;
+     }
+     .asdf{
+        font-size: 20px;
+        margin-top: 16px;
+        margin-left: 24px;
+     }
+     .bnm{
+        font-size: 20px;
+        position: absolute;
+        margin-top: -27px;
+        margin-left: 150px;
+     }
+     .cxq{
+        font-size: 16px;
+        
+        position: absolute;
+        margin-left: 24px;
+       
+     }
+     .block2{
+        position: absolute;
+        margin-top: 1620px;
+        width: 376px;
+        height: 156px;
+        margin-left: 12px;
+     }
+     .block3{
+        position: absolute;
+        margin-top: 1790px;
+        width: 376px;
+        height: 156px;
+        margin-left: 12px;
+     }
+     .roma{
+       font-size: 48px;
+       position: absolute;
+       margin-top: 1980px;
+       margin-left: 12px;
+     }
+     .pooc{
+       position: absolute;
+       margin-top: 2050px;
+       margin-left: 121px;
+       gap: 30px;
+       font-size: 16px;
+     }
+     .wero{
+        position: absolute;
+        margin-top: 2080px;
+        width: 386px;
+        height: 552px;
+        margin-left: 12px;
+     }
+     .cotew{
+        width: 153px;
+        height: 390px;
+        position: absolute;
+        margin-left: 185px;
+     }
+     .drok{
+        width: 153px;
+        height: 390px;
+        position: absolute;
+     }
+     .log{
+        position: absolute;
+        font-size: 24px;
+        white-space: nowrap;
+        margin-left: 20px;
+   }
+   .hart{
+    position: absolute;
+    font-size: 24px;
+    white-space: nowrap;
+    margin-left: 160px;
+ }
+ .btn{
+    width: 257px;
+    height: 57px;
+    font-size: 24px;
+    position: absolute;
+    
+    margin-left: 20px;
+ }
+ .rtu{
+    position: absolute;
+    margin-top: 2660px;
+    width: 386px;
+    height: 552px;
+    margin-left: 12px;
+ }
+ .bagi{
+    position: absolute;
+    margin-top: 3240px;
+    width: 386px;
+    height: 552px;
+    margin-left: 12px;
+ }
+ .weryu{
+    font-size: 48px;
+    position: absolute;
+    margin-top: 3820px;
+    margin-left: 15px;
+ }
+ 
+ .text{
+    font-size: 32px;
+    margin-left: 85px;
+ }
+ .rogot{
+    width: 386px;
+    height: 400px;
+    position: absolute;
+    margin-top: 3920px;
+    margin-left: 10px;
+ }
+ .text2{
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 60px;
+ }
+ .qerdsds{
+    font-size: 32px;
+    position: absolute;
+    margin-top: 128px;
+    margin-left: 65px;
+ }
+ .profgh{
+    font-size: 24px;
+    position: absolute;
+    margin-left: 104px;
+    font-weight: 300;
+    margin-top: 168px;
+
+ }
+ .stoit{
+    position: absolute;
+    margin-left: 114px;
+    font-size: 32px;
+    margin-top: 232px;
+ }
+ .trist{
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 272px;
+    font-size: 24px;
+    font-weight: 300;
+ }
+ .cored{
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 288px;
+    font-size: 23px;
+ }
+ .podrob{
+    position: absolute;
+    margin-top: 4318px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 10px;
+ }
+ .kolou{
+     
+    position: absolute;
+    margin-top: 4310px;
+    width: 24px;
+    height: 24px;
+    margin-left: 31px;
+ }
+ .kolou2{
+    position: absolute;
+    margin-top: 4310px;
+    margin-left: 77px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou3{
+    position: absolute;
+    margin-top: 4310px;
+    margin-left: 123px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou4{
+    position: absolute;
+    margin-top: 4310px;
+    margin-left: 169px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou5{
+    position: absolute;
+    margin-top: 4310px;
+    margin-left: 215px;
+    width: 24px;
+    height: 24px;
+    
+ }
+ .kolou6{
+    position: absolute;
+    margin-top: 4310px;
+    margin-left: 259px;
+    width: 24px;
+    height: 24px;
+    
+ }
+ .kolou7{
+    position: absolute;
+    margin-top: 4310px;
+    margin-left: 304px;
+    width: 24px;
+    height: 24px;
+   
+ }
+ .kolou8{
+    position: absolute;
+    margin-top: 4310px;
+    margin-left: 349px;
+    width: 24px;
+    height: 24px;
+ }
+ .rogot2{
+    position: absolute;
+    margin-top: 4480px;
+    width: 386px;
+    height: 400px;
+    font-size: 32px;
+    margin-left: 10px;
+ }
+ .podrob2{
+    position: absolute;
+    margin-top: 4878px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 10px;
+ }
+ .kolou1{
+   
+    position: absolute;
+    margin-top: 4870px;
+    width: 24px;
+    height: 24px;
+    margin-left: 31px;
+ }
+ .kolou21{
+    position: absolute;
+    margin-top: 4870px;
+    margin-left: 77px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou31{
+    position: absolute;
+    margin-top: 4870px;
+    margin-left: 123px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou41{
+    position: absolute;
+    margin-top: 4870px;
+    margin-left: 169px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou51{
+    position: absolute;
+    margin-top: 4870px;
+    margin-left: 215px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou61{
+    position: absolute;
+    margin-top: 4870px;
+    margin-left: 259px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou71{
+    position: absolute;
+      margin-top: 4870px;
+      margin-left: 304px;
+      width: 24px;
+      height: 24px;
+   }
+   .kolou81{
+      position: absolute;
+      margin-top: 4870px;
+      margin-left: 349px;
+      width: 24px;
+      height: 24px;
+     
+   }
+   .rogot3{
+    position: absolute;
+    margin-top: 5040px;
+    width: 386px;
+    height: 400px;
+    font-size: 32px;
+    margin-left: 10px; 
+}
+.text219{
+    font-size: 24px;
+    margin-top: 64px;
+    margin-left: 70px;
+}
+ .podrob3{
+    position: absolute;
+    margin-top: 5438px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 10px;
+ }
+ .kolou22{
+   
+    position: absolute;
+    margin-top: 5430px;
+    width: 24px;
+    height: 24px;
+    margin-left: 31px;
+    
+ }
+ .kolou23{
+    position: absolute;
+    margin-top: 5430px;
+    margin-left: 77px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou33{
+    position: absolute;
+   
+    margin-top: 5430px;
+    margin-left: 123px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou43{
+    position: absolute;
+    margin-top: 5430px;
+    margin-left: 169px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou53{
+    position: absolute;
+    margin-top: 5430px;
+    margin-left: 215px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou63{
+    position: absolute;
+    margin-top: 5430px;
+    margin-left: 259px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou73{
+    position: absolute;
+    margin-top: 5430px;
+    margin-left: 304px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou83{
+    position: absolute;
+    margin-top: 5430px;
+    margin-left: 349px;
+    width: 24px;
+    height: 24px;
+   
+ }
+ .rogot4{
+    position: absolute;
+    margin-top: 5600px;
+    width: 386px;
+    height: 400px;
+    font-size: 32px;
+    margin-left: 10px; 
+ }
+ .text23{
+    position: absolute;
+    font-size: 32px;
+    margin-left: 27px;
+ }
+ .dronr{
+    font-size: 24px;
+    margin-left: 70px;
+    margin-top: 64px;
+    font-weight: 300;
+ }
+ .rock{
+    font-size: 32px;
+    margin-top: 128px;
+    margin-left: 65px;
+ }
+ .deni{
+    font-size: 24px;
+    margin-left: 107px;
+    margin-top: 168px;
+ }
+ .denik{
+    position: absolute;
+    font-size: 32px;
+    margin-left: 114px;
+    margin-top: 232px;
+ }
+ .free{
+    font-weight: 300;
+    position: absolute;
+    margin-left: 135px;
+    margin-top: 272px;
+    font-size: 24px;
+ }
+ .tire{
+    position: absolute;
+    margin-left: 135px;
+    margin-top: 282px;
+
+ }
+ .pringle{
+    position: absolute;
+    margin-top: 5995px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 10px;
+ }
+ .kolou101{
+   
+    position: absolute;
+    margin-top: 5990px;
+    width: 24px;
+    height: 24px;
+    margin-left: 31px;
+    
+ }
+ .kolou102{
+    position: absolute;
+    margin-top: 5990px;
+    margin-left: 77px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou103{
+    position: absolute;
+    margin-top: 5990px;
+    margin-left: 123px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou104{
+    position: absolute;
+    margin-top: 5990px;
+    margin-left: 169px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou105{
+    position: absolute;
+    margin-top: 5990px;
+    margin-left: 215px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou106{
+    position: absolute;
+    margin-top: 5990px;
+    margin-left: 259px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou107{
+    position: absolute;
+    margin-top: 5990px;
+    margin-left: 304px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou108{
+    position: absolute;
+    margin-top: 5990px;
+    margin-left: 349px;
+    width: 24px;
+    height: 24px;
+  
+ }
+ .rogot23{
+    position: absolute;
+    margin-top: 6160px;
+    width: 386px;
+    height: 400px;
+    font-size: 32px;
+    margin-left: 10px; 
+ }
+ .text233{
+    position: absolute;
+    font-size: 32px;
+    margin-left: 77px;
+ }
+ .dronr234{
+    font-size: 24px;
+    margin-left: 137px;
+    margin-top: 64px;
+    font-weight: 300;
+    position: absolute;
+ }
+ .rock23{
+    position: absolute;
+    margin-top: 128px;
+    margin-left: 65px;
+    font-size: 32px;
+ }
+ .deni32{
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    margin-top: 168px;
+    margin-left: 114px;
+ }
+ .denik233{
+    position: absolute;
+    font-size: 32px;
+    margin-left: 114px;
+    margin-top: 232px;
+ }
+ .free323{
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    margin-top: 272px;
+    margin-left: 165px;
+ }
+ .tire3324{
+    position: absolute;
+    margin-top: 292px;
+    margin-left: 165px;
+    font-size: 22px;
+ }
+ .pringle3242{
+    position: absolute;
+    margin-top: 6558px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 10px;
+ }
+ .kolou1011{
+   
+    position: absolute;
+    margin-top: 6550px;
+    width: 24px;
+    height: 24px;
+    margin-left: 31px;
+    
+ }
+ .kolou1021{
+    position: absolute;
+    margin-top: 6550px;
+    margin-left: 77px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou1031{
+    position: absolute;
+    margin-top: 6550px;
+    margin-left: 123px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou1041{
+    position: absolute;
+    margin-top: 6550px;
+    margin-left: 169px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou1051{
+    position: absolute;
+    margin-top: 6550px;
+    margin-left: 215px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou1061{
+    position: absolute;
+    margin-top: 6550px;
+    margin-left: 259px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou1071{
+    position: absolute;
+    margin-top: 6550px;
+    margin-left: 304px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou1081{
+    position: absolute;
+    margin-top: 6550px;
+    margin-left: 349px;
+    width: 24px;
+    height: 24px;
+  
+ }
+ .rogot232{
+    position: absolute;
+    margin-top: 6730px;
+    width: 386px;
+    height: 400px;
+    font-size: 32px;
+    margin-left: 10px; 
+
+ }
+ .tire3324{
+    font-size: 16px;
+ }
+ .tire{
+    font-size: 15px;
+    margin-top: 295px;
+    position: absolute;
+ }
+ .line2 {
+    width: 2px; 
+    height: 100px; 
+    background-color: #000; 
+    margin-top: 1000px;
+    background-color: red;
+    position: absolute;
+  }
+ .cored{
+    font-size: 15px;
+    margin-top: 295px;
+ }
+ .dronr23{
+    white-space: nowrap;
+    position: absolute;
+    margin-top: 64px;
+    margin-left: 53px;
+    font-size: 24px;
+    font-weight: 300;
+ }
+ .text23334{
+    position: absolute;
+    font-size: 32px;
+    margin-left: 36px;
+    white-space: nowrap;
+ }
+ .pringle3242134{
+    position: absolute;
+    margin-top: 7128px;
+    width: 386px;
+    height: 132px;
+    font-size: 32px;
+    margin-left: 10px;
+ }
+ .kolou101123{
+   
+    position: absolute;
+    margin-top: 7120px;
+    width: 24px;
+    height: 24px;
+    margin-left: 31px;
+    
+ }
+ .kolou102123{
+    position: absolute;
+    margin-top: 7120px;
+    margin-left: 77px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou103123{
+    position: absolute;
+    margin-top: 7120px;
+    margin-left: 125px;
+    width: 24px;
+    height: 24px;
+
+ }
+ .kolou104123{
+    position: absolute;
+    margin-top: 7120px;
+    margin-left: 169px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou105123{
+    position: absolute;
+    margin-top: 7120px;
+    margin-left: 215px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou106123{
+    position: absolute;
+    margin-top: 7120px;
+    margin-left: 259px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou107123{
+    position: absolute;
+    margin-top: 7120px;
+    margin-left: 304px;
+    width: 24px;
+    height: 24px;
+ }
+ .kolou108123{
+    position: absolute;
+    margin-top: 7120px;
+    margin-left: 349px;
+    width: 24px;
+    height: 24px;
+  
+ }
+ .pocol{
+    position: absolute;
+    margin-top: 7300px;
+    margin-left: 12px;
+    font-size: 48px;
+ }
+.telega{
+    position: absolute;
+    margin-top: 7370px;
+    margin-left: 12px;
+    width: 98px;
+    height: 98px;
+}
+.ivanova{
+   position: absolute;
+   margin-top: 7375px;
+   width: 270px;
+   height: 100px;
+  font-size: 29px;
+  margin-left: 128px;
+}
+ .random{
+    display: none;
+ }
+ .wraping{
+    background-color: #CFAA8E;
+    position: absolute;
+    margin-top: 7500px;
+    margin-left: 300px;
+    width: 98px;
+    height: 98px;
+ }
+ .nambelou{
+    position: absolute;
+    margin-top: 7500px;
+    margin-left: 12px;
+    width: 270px;
+    height: 100px;
+   font-size: 29px;
+   background-color: #CFAA8E;
+   
+ }
+ .graving{
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 7640px;
+    display: block;
+    width: 98px;
+    height: 98px;
+ }
+ .salor{
+    position: absolute;
+    margin-top: 7640px;
+    width: 270px;
+    height: 100px;
+   font-size: 29px;
+   margin-left: 128px;
+   border-radius: 29px;
+   line-height: 90px;
+   display: block;
+ }
+ .watsap{
+    width: 50px;
+    height: 50px;
+    margin-left: 25px;
+    margin-top: 20px;
+ }
+ .bog{
+    position: absolute;
+    width: 430px;
+    height: 255px;
+    margin-top: 7800px;
+ }
+.rodas{
+    position: absolute;
+    margin-left: 144px;
+    margin-top: 40px;
+    font-size: 30px;
+}
+.homed{
+    position: absolute;
+    margin-left: 144px;
+    margin-top: 70px;
+    font-size: 30px;
+}
+.copy{
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 127px;
+    font-size: 16px;
+}
+.all{
+    position: absolute;
+    margin-left: 98px;
+    margin-top: 127px;
+    font-size: 16px;
+}
+.didsa{
+    position: absolute;
+    margin-left: 247px;
+    margin-top: 129px;
+    font-size: 15px;
+    white-space: nowrap;
+}
+.gorod{
+    position: absolute;
+    margin-left: 39px;
+    margin-top: 191px;
+    font-size: 18px;
+}
+    }

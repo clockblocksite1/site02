@@ -1,0 +1,282 @@
+.chor4{
+    width: 1248px;
+    height: 1144px;
+    background-color: #4D433F;
+    border-radius: 32px;
+    position: absolute;
+    margin-top: -2150px;
+    margin-left: 336px;
+}
+.check145{
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 290px;
+}
+.cel{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+.cvbn{
+    color: white;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.cwer{
+    color: white;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.ssn{
+    color: white;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.qxcv{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 350px;
+}
+.polkj{
+    color: white;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.one1000{
+    color: white;
+    position: absolute;
+    margin-top: 390px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 26px;
+    
+}
+.three1000{
+    color: white;
+    position: absolute;
+    margin-top: 470px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 26px;
+}
+.two1000{
+    color: white;
+    position: absolute;
+    margin-top: 430px;
+    font-weight: 300;
+    margin-left: 10px;
+    font-size: 26px;
+}
+.four1000{
+    color: white;
+    position: absolute;
+    margin-top: 510px;
+    font-weight: 300;
+    margin-left: 10px;
+    font-size: 26px;
+}
+.five1000{
+    color: white;
+    position: absolute;
+    margin-top: 550px;
+    font-weight: 300;
+    margin-left: 10px;
+    font-size: 26px;
+}
+.brod1000{
+    color: white;
+    position: absolute;
+    margin-top: 590px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 26px;
+}
+.brod2000{
+    color: white;
+    position: absolute;
+    margin-top: 630px;
+    font-weight: 300;
+    margin-left: 10px;
+    font-size: 26px;
+}
+.brod3000{
+    color: white;
+    position: absolute;
+    margin-top: 670px;
+    font-weight: 300;
+    margin-left: 10px;
+    font-size: 26px;
+
+}
+.brod4000{
+    color: white;
+    position: absolute;
+    margin-top: 710px;
+    font-weight: 300;
+    margin-left: 10px;
+    font-size: 26px;
+}
+
+.format1789{
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 770px;
+    margin-left: 443px;
+    
+}
+.online23147{
+    color: white;
+    position: absolute;
+    margin-top: 830px;
+    font-weight: 300;
+    margin-left: 497px;
+    font-size: 24px; 
+}
+.brod5000{
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 900px;
+    margin-left: 375px;
+}
+.brod6000{
+    color: white;
+    position: absolute;
+    margin-top: 980px;
+    font-weight: 300;
+    margin-left: 134px;
+    font-size: 26px;
+}
+@media(max-width:431px){
+    .check145{
+        font-size: 32px;
+        margin-left: 47px;
+        position: absolute;
+        white-space: nowrap;
+    }
+   
+      .chor4{
+        width:406px ;
+        height: 1154px;
+        position: absolute;
+        margin-left: 1px;
+        margin-top: 4380px;
+      }
+      .one1000{
+        color: white;
+        font-size: 18px;
+        margin-left: 215px;
+        margin-top: 354px;
+        font-weight: 300;
+        
+    }
+    .three1000{
+        color: white;
+        font-size: 14px;
+        margin-left: 35px;
+        margin-top: 434px;
+        font-weight: 300;
+    }
+    .two1000{
+        color: white;
+        font-size: 14px;
+        margin-left: 35px;
+        margin-top: 394px;
+        font-weight: 300;
+    }
+    .four1000{
+        color: white;
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 484px;
+        font-weight: 300;
+    }
+    .five1000{
+        color: white;
+        font-size: 14px;
+        margin-left: 35px;
+        margin-top: 564px;
+        font-weight: 300;
+    }
+    .brod1000{
+        color: white;
+        font-size: 14px;
+        margin-left: 35px;
+        margin-top: 604px;
+        font-weight: 300;
+    }
+    .brod2000{
+        color: white;
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 634px;
+        font-weight: 300;
+    }
+    .brod3000{
+        color: white;
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 714px;
+        font-weight: 300;
+    }
+    .brod4000{
+        color: white;
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 774px;
+        font-weight: 300;
+    }
+    
+    .format1789{
+        color: white;
+        font-size: 20px;
+        position: absolute;
+        margin-top: 850px;
+        margin-left: 94px;
+ white-space: nowrap;
+
+        
+    }
+    .online23147{
+        color: white;
+        position: absolute;
+        margin-top: 890px;
+        font-weight: 300;
+        margin-left: 33px;
+        font-size: 16px; 
+        white-space: nowrap;
+    }
+    .brod5000{
+        font-size: 20px;
+        color: white;
+        position: absolute;
+        margin-top: 930px;
+        margin-left: 50px;
+    }
+    .brod6000{
+        color: white;
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 964px;
+        font-weight: 300;
+    }
+}

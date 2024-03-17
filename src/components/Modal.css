@@ -1,0 +1,301 @@
+.chor6{
+    width: 1248px;
+    height: 1148px;
+    background-color: #4D433F;
+    border-radius: 32px;
+    position: absolute;
+    margin-top: -2150px;
+    margin-left: 336px;
+}
+.checkqwe{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    margin-top: 24px;
+    margin-left: 187px;
+}
+.cel{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+.cvbn{
+    color: white;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.cwer{
+    color: white;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.ssn{
+    color: white;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.qxcv{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 350px;
+}
+.polkj{
+    color: white;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: 300;
+}
+.one55{
+    color: white;
+    position: absolute;
+    margin-top: 400px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 24px;
+    
+}
+.three55{
+    color: white;
+    position: absolute;
+    margin-top: 480px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 24px;
+    
+}
+.two55{
+    color: white;
+    position: absolute;
+    margin-top: 440px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 24px;
+    
+}
+.four55{
+    color: white;
+    position: absolute;
+    margin-top: 520px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 24px;
+    
+}
+.five55{
+    color: white;
+    position: absolute;
+    margin-top: 560px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 24px;
+    
+}
+.looc1{
+    color: white;
+    position: absolute;
+    margin-top: 600px;
+    font-weight: 300;
+    margin-left: 10px;
+    font-size: 24px;
+    
+}
+.looc21{
+    color: white;
+    position: absolute;
+    margin-top: 640px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 24px;
+}
+.looc31{
+    color: white;
+    position: absolute;
+    margin-top: 680px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 24px; 
+}
+.looc41{
+    color: white;
+    position: absolute;
+    margin-top: 720px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 24px;
+}
+.looc51{
+    color: white;
+    position: absolute;
+    margin-top: 760px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 24px;
+}
+.looc61{
+    color: white;
+    position: absolute;
+    margin-top: 800px;
+    font-weight: 300;
+    margin-left: 40px;
+    font-size: 24px; 
+}
+.format50{
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 867px;
+    margin-left: 443px;
+    
+}
+.online55{
+    color: white;
+    position: absolute;
+    margin-top: 930px;
+    font-weight: 300;
+    margin-left: 577px;
+    font-size: 24px; 
+}
+.dla30{
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 995px;
+    margin-left: 375px;
+}
+.svia30{
+    color: white;
+    position: absolute;
+    margin-top: 1059px;
+    font-weight: 300;
+    margin-left: 164px;
+    font-size: 24px; 
+}
+.bet{
+    width: 54px;
+    height: 54px;
+    color: white;
+    position: absolute;
+    margin-left: 800px;
+    cursor: pointer;
+}
+@media(max-width:430px){
+    .chor6{
+        position: absolute;
+        width: 406px;
+        height: 966px;
+        position: absolute;
+        margin-left: 1px;
+        margin-top: 6570px;
+    }
+    .checkqwe{
+        white-space: nowrap;
+        font-size: 15px;
+        color: white;
+        position: absolute;
+        margin-left: 12px;
+    }
+    .one55{
+       position: absolute;
+       font-size: 16px;
+       margin-top: 360px;
+       margin-left: 35px;
+    }
+    .two55{
+        position: absolute;
+        font-size: 16px;
+        margin-top: 380px;
+        margin-left: 35px;
+    }
+    .three55{
+        position: absolute;
+        font-size: 16px;
+        margin-top: 400px;
+        margin-left: 35px;
+    }
+    .four55{
+        position: absolute;
+        font-size: 16px;
+        margin-top: 460px;
+        margin-left: 35px;
+    }
+    .five55{
+        position: absolute;
+        font-size: 16px;
+        margin-top: 480px;
+        margin-left: 35px;
+    }
+    .looc1{
+        position: absolute;
+        font-size: 19px;
+        margin-top: 500px;
+        margin-left: 35px;
+    }
+    .looc21{
+        position: absolute;
+        font-size: 16px;
+        margin-top: 580px;
+        margin-left: 35px;
+    }
+    .looc31{
+        position: absolute;
+        font-size: 16px;
+        margin-top: 600px;
+        margin-left: 35px;
+    }
+    .looc41{
+        position: absolute;
+        font-size: 16px;
+        margin-top: 620px;
+        margin-left: 35px;
+    }
+    .looc51{
+        position: absolute;
+        font-size: 16px;
+        margin-top: 660px;
+        margin-left: 35px;
+    }
+    .looc61{
+        position: absolute;
+        font-size: 16px;
+        margin-top: 680px;
+        margin-left: 35px;
+    }
+    .format50{
+        margin-left: 94px;
+        font-size: 20px;
+        margin-top: 734px;
+    }
+    .dla30{
+        font-size: 20px;
+        margin-left: 50px;
+        margin-top: 810px;
+    }
+    .svia30{
+        font-size: 20px;
+        position: absolute;
+        margin-left: 33px;
+        margin-top: 850px;
+    }
+    .online55{
+        font-size: 16px;
+        font-weight: 300;
+        position: absolute;
+        margin-left: 33px;
+        margin-top: 774px;
+    }
+}

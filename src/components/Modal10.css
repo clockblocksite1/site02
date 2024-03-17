@@ -1,0 +1,161 @@
+.okno1010{
+    width: 668px;
+    height: 662px;
+    background-color: #442D25;
+    position: absolute;
+    margin-top: -3000px;
+    border-radius: 44px;
+    margin-left: 626px;
+}
+.hot1cu{
+    position: absolute;
+    color: white;
+    width: 47px;
+    height: 47px;
+    cursor: pointer;
+    margin-left: 619px;
+}
+.hotqw{
+    width: 305px;
+    height: 390px;
+    border-radius: 44px;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+.hot201qw{
+    width: 305px;
+    height: 390px;
+    border-radius: 44px;
+    margin-top: -545px;
+    margin-left: 339px;
+    position: absolute;
+}
+.hot301qw{
+    width: 305px;
+    height: 390px;
+    border-radius: 44px;
+    margin-top: -547px; 
+    margin-left: 181px;
+    position: absolute;
+    border: solid 4px white;
+}
+.hot49{
+    background-color: white;
+    width: 90px;
+    height: 50px;
+    border-radius: 14px;
+    margin-left: 233px;
+    position: absolute;
+    margin-top: 20px;
+    width: 90px;
+    height: 50px;
+}
+.hot52{
+    margin-left: 50px;
+    font-size: 25px;
+    position: absolute;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.hot69{
+    background-color: white;
+    border-radius: 14px;
+    margin-left: 325px;
+    position: absolute;
+    margin-top: 20px;
+    width: 90px;
+    height: 50px;
+}
+.hot72{
+    margin-left: 10px;
+    font-size: 25px;
+    position: absolute;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.hot800{
+    font-size: 24px;
+    color: white;
+    font-weight: 300;
+    margin-left: 20px;
+    margin-top: 90px;
+    font-weight: 300;
+}
+.hot900{
+    font-size: 24px;
+    color: white;
+    font-weight: 300;
+    margin-left: 20px;
+    font-weight: 300;
+   
+}
+@media(max-width:430px){
+    .okno1010{
+        margin-left: 12px;
+        position: absolute;
+        margin-top: 3238px;
+        width: 386px;
+        height: 484px;
+    }
+    .hotqw{
+        position: absolute;
+   margin-top: 21px;
+   margin-left: 20px;
+   width: 219px;
+   height: 280px;
+    }
+   .hot201qw{
+    position: absolute;
+    margin-top: 21px;
+    margin-left: 150px;
+    width: 219px;
+    height: 280px;
+   }
+   .hot301qw{
+    position: absolute;
+    margin-top: 21px;
+    margin-left: 85px;
+    width: 219px;
+    height: 280px;
+   }
+   .hot49{
+    position: absolute;
+    margin-top: 320px;
+    width: 70px;
+    height: 50px;
+    margin-left: 110px;
+   }
+   .hot69{
+    position: absolute;
+    margin-top: 320px;
+    width: 70px;
+    height: 50px;
+    margin-left: 180px;
+   }
+   .hot800{
+    position: absolute;
+    margin-top: 380px;
+    font-size: 16px;
+   }
+   .hot900{
+    position: absolute;
+    margin-top: 380px;
+    font-size: 16px;
+    margin-top: 420px;
+   }
+   .hot1cu{
+    position: absolute;
+    margin-left: 335px;
+    margin-top: 5px;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+   }
+   .hot52{
+    margin-left: 30px;
+    margin-top: 10px;
+   }
+   .hot72{
+    margin-top: 10px;
+   }
+}

@@ -1,0 +1,279 @@
+.chor5{
+    width: 1248px;
+    height: 1144px;
+    background-color: #4D433F;
+    border-radius: 32px;
+    position: absolute;
+    margin-top: -2150px;
+    margin-left: 336px;
+}
+.check1111{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    margin-top: 24px;
+    margin-left: 307px;
+}
+.cel20{
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 88px;
+    margin-left: 487px;
+}
+.cvbn20{
+    color: white;
+    position: absolute;
+    margin-top: 152px;
+    margin-left: 10px;
+    font-size: 26px;
+    font-weight: 300;
+}
+.cwer20{
+    color: white;
+    position: absolute;
+    margin-top: 192px;
+    margin-left: 10px;
+    font-size: 26px;
+    font-weight: 300;
+}
+.ssn50{
+    color: white;
+    position: absolute;
+    margin-top: 228px;
+    margin-left: 10px;
+    font-size: 26px;
+    font-weight: 300;
+}
+.qxcv50{
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 296px;
+    margin-left: 487px;
+}
+.polkj2020{
+    color: white;
+    position: absolute;
+    margin-top: 360px;
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.one2025{
+    color: white;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 300;
+    
+}
+.three2025{
+    color: white;
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 40px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.two2025{
+    color: white;
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.four2025{
+    color: white;
+    position: absolute;
+    margin-top: 520px;
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.five2025{
+    color: white;
+    position: absolute;
+    margin-top: 560px;
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.looc{
+    color: white;
+    position: absolute;
+    margin-top: 340px;
+    font-weight: 300;
+    margin-left: 130px;
+    font-size: 13px; 
+}
+.politech2025{
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 624px;
+    margin-left: 448px;
+}
+.online2025{
+    color: white;
+    position: absolute;
+    margin-top: 688px;
+    font-weight: 300;
+    margin-left: 367px;
+    font-size: 24px; 
+    white-space: nowrap;
+}
+.dla2025{
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 732px;
+    margin-left: 375px;
+}
+.svia2025{
+    color: white;
+    position: absolute;
+    margin-top: 816px;
+    font-weight: 300;
+    margin-left: 134px;
+    font-size: 24px; 
+}
+.svia2026{
+    color: white;
+    position: absolute;
+    margin-top: 870px;
+    font-weight: 300;
+    margin-left: 450px;
+    font-size: 24px; 
+}
+.bet109{
+    width: 68px;
+    height: 68px;
+    color: white;
+    position: absolute;
+    margin-left: 1158px;
+    margin-top: 12px;
+    cursor: pointer;
+    
+}
+@media(max-width:430px){
+    .chor5{
+        width: 406px;
+        height: 1042px;
+        margin-left: 12px;
+        position: absolute;
+        margin-top: 4940px;
+    }
+    .bet109{
+        position: absolute;
+    margin-left: 377px;
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    color: white;
+
+    }
+    .check1111{
+        font-size: 32px;
+        position: absolute;
+        margin-left: 35px;
+    }
+    .cel20{
+       font-size: 20px;
+       margin-left: 117px;
+       margin-top: 118px;
+    }
+    .cvbn20{
+       font-size: 18px;
+       margin-left: 35px;
+       margin-top: 158px;
+    }
+    .cwer20{
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 208px;
+    }
+    .ssn50{
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 258px;
+    }
+    .qxcv50{
+        white-space: nowrap;
+        font-size: 20px;
+        margin-left: 117px;
+        margin-top: 314px;
+    }
+    .polkj2020{
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 354px;
+    }
+    .two2025{
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 474px;
+        
+    }
+    .three2025{
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 544px;
+    }
+    .one2025{
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 424px;
+    }
+    .four2025{
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 574px;
+    }
+    .five2025{
+        font-size: 18px;
+        margin-left: 35px;
+        margin-top: 624px;
+    }
+    .looc{
+      display: none;
+    }
+    .politech2025{
+       font-size: 20px;
+       margin-left: 94px;
+       margin-top: 722px;
+    }
+    .online2025{
+   font-size: 16px;
+   font-weight: 300;
+   margin-left: 33px;
+   margin-top: 770px;
+    }
+    .dla2025{
+      font-size: 20px;
+      margin-left: 50px;
+      margin-top: 832px;
+    }
+    .svia2025{
+     font-size: 18px;
+     margin-left: 33px;
+     margin-top: 872px;
+    }
+    .svia2026{
+        font-size: 18px;
+        margin-left: 33px;
+        margin-top: 952px;
+      }
+    .bet109{
+        
+        color: white;
+        position: absolute;
+        margin-left: 377px;
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+       
+    }
+}
